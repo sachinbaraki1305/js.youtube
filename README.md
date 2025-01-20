@@ -1,2 +1,2 @@
-# js.hindi-youtube
+# js.youtube
 Javascript practice
